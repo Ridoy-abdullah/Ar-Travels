@@ -5,7 +5,7 @@ body{
     font-family: 'Poppins', sans-serif;  
 }  
 .travels-bg {
-        background-image: url(/image/Decore.svg);
+        background-image: url(image/Decore.svg);
         background-position: top right;
         background-repeat: no-repeat;
         background-size: 600px 600px;
